@@ -1,0 +1,3 @@
+Lamborgini, 450, 5, 10, 18
+Tesla, 400, 2, 10, 2
+Bughatti, 500, 5, 15, 21
